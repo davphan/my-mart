@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "solito-nativewind",
-    "slug": "solito-nativewind",
+    "name": "my-mart-native",
+    "slug": "my-mart-native",
     "version": "1.0.0",
-    "scheme": "solito-nativewind",
+    "scheme": "my-mart-native",
     "platforms": ["ios", "android"],
     "ios": {
       "bundleIdentifier": "com.solito.nativewind"
